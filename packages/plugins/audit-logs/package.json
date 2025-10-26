@@ -1,0 +1,7 @@
+{
+  "name": "@strapi/plugin-audit-logs",
+  "version": "0.0.1",
+  "description": "Audit logs plugin for Strapi - records content API changes",
+  "main": "server/src/index.ts",
+  "license": "MIT"
+}
